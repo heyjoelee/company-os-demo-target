@@ -7,7 +7,7 @@ export default function Home() {
           Company OS — demo target
         </div>
         <h1 className="text-5xl font-semibold leading-tight tracking-tight text-zinc-950 dark:text-zinc-50">
-          A working preview, shipped by an agent.
+          Shipped by the CTO agent at 2026-05-13 21:00 KST.
         </h1>
         <p className="text-lg leading-8 text-zinc-600 dark:text-zinc-400">
           This page is the canvas. When a Company OS agent picks up an issue, it edits this file, commits, pushes,
