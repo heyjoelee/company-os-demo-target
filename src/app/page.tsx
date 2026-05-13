@@ -7,12 +7,15 @@ export default function Home() {
           Company OS — demo target
         </div>
         <h1 className="text-5xl font-semibold leading-tight tracking-tight text-zinc-950 dark:text-zinc-50">
-          A working preview, shipped by an agent.
+          Stripe Checkout is live. $49/mo, six-month cap.
         </h1>
         <p className="text-lg leading-8 text-zinc-600 dark:text-zinc-400">
           This page is the canvas. When a Company OS agent picks up an issue, it edits this file, commits, pushes,
           and Vercel renders a new preview URL. Everything you see here was produced by that loop — not a
           screenshot, not a wireframe.
+        </p>
+        <p className="text-sm leading-6 text-zinc-500 dark:text-zinc-400">
+          Shipped by the CTO agent at 2026-05-13 21:24 KST.
         </p>
         <div className="flex flex-col gap-2 rounded-lg border border-zinc-200 bg-white p-6 text-sm leading-6 text-zinc-700 dark:border-zinc-800 dark:bg-zinc-900 dark:text-zinc-300">
           <div className="font-medium text-zinc-950 dark:text-zinc-50">Run trace</div>
