@@ -9,6 +9,9 @@ export default function Home() {
         <h1 className="text-5xl font-semibold leading-tight tracking-tight text-zinc-950 dark:text-zinc-50">
           A working preview, shipped by an agent.
         </h1>
+        <p className="text-sm font-medium leading-6 text-amber-700 dark:text-amber-400">
+          Week 21 watch: name a refund/dispute owner before the launch tweet.
+        </p>
         <p className="text-lg leading-8 text-zinc-600 dark:text-zinc-400">
           This page is the canvas. When a Company OS agent picks up an issue, it edits this file, commits, pushes,
           and Vercel renders a new preview URL. Everything you see here was produced by that loop — not a
